@@ -436,6 +436,7 @@
         "variant-analysis",
         "varlock",
         "varlock-claude-skill",
+        "vibers-code-review",
         "vulnerability-scanner",
         "web-design-guidelines",
         "web-security-testing",
@@ -482,7 +483,8 @@
         "pubmed-database",
         "service-mesh-expert",
         "service-mesh-observability",
-        "slo-implementation"
+        "slo-implementation",
+        "vibers-code-review"
       ]
     },
     "data-core": {

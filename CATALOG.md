@@ -2,7 +2,7 @@
 
 Generated at: 2026-02-08T00:00:00.000Z
 
-Total skills: 1263
+Total skills: 1264
 
 ## architecture (82)
 
@@ -1074,7 +1074,7 @@ distri... | makepad, deployment | makepad, deployment, critical, packaging, trig
 | `workflow-automation` | Workflow automation is the infrastructure that makes AI agents reliable. Without durable execution, a network hiccup during a 10-step payment flow means lost... |  | automation, infrastructure, makes, ai, agents, reliable, without, durable, execution, network, hiccup, during |
 | `x-twitter-scraper` | X (Twitter) data platform skill — tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, monitoring, webhooks, 19 extraction too... | [twitter, x-api, scraping, mcp, social-media, data-extraction, giveaway, monitoring, webhooks] | [twitter, x-api, scraping, mcp, social-media, data-extraction, giveaway, monitoring, webhooks], twitter, scraper, data |
 
-## security (148)
+## security (149)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -1221,6 +1221,7 @@ PROACTIVELY for YMY... | seo, authority, builder | seo, authority, builder, anal
 | `variant-analysis` | Find similar vulnerabilities and bugs across codebases using pattern-based analysis. Use when hunting bug variants, building CodeQL/Semgrep queries, analyzin... | variant | variant, analysis, find, similar, vulnerabilities, bugs, codebases, hunting, bug, variants, building, codeql |
 | `varlock` | Secure environment variable management with Varlock. Use when handling secrets, API keys, credentials, or any sensitive configuration. Ensures secrets are ne... | varlock | varlock, secure, environment, variable, handling, secrets, api, keys, credentials, any, sensitive, configuration |
 | `varlock-claude-skill` | Secure environment variable management ensuring secrets are never exposed in Claude sessions, terminals, logs, or git commits | varlock, claude, skill | varlock, claude, skill, secure, environment, variable, ensuring, secrets, never, exposed, sessions, terminals |
+| `vibers-code-review` | Human review workflow for AI-generated GitHub projects with spec-based feedback, security review, and follow-up PRs from the Vibers service. | vibers, code | vibers, code, review, human, ai, generated, github, spec, feedback, security, follow, up |
 | `vulnerability-scanner` | Advanced vulnerability analysis principles. OWASP 2025, Supply Chain Security, attack surface mapping, risk prioritization. | vulnerability, scanner | vulnerability, scanner, analysis, principles, owasp, 2025, supply, chain, security, attack, surface, mapping |
 | `web-design-guidelines` | Review UI code for Web Interface Guidelines compliance. Use when asked to \"review my UI\", \"check accessibility\", \"audit design\", \"review UX\", or \"ch... | web, guidelines | web, guidelines, review, ui, code, interface, compliance, asked, my, check, accessibility, audit |
 | `web-security-testing` | Web application security testing workflow for OWASP Top 10 vulnerabilities including injection, XSS, authentication flaws, and access control issues. | web, security | web, security, testing, application, owasp, top, 10, vulnerabilities, including, injection, xss, authentication |
